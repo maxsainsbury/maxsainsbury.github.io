@@ -1,4 +1,4 @@
-const fortune = ['very bad', 'bad', 'slightly bad', 'fair', 'slightly good', 'good', 'excilent']
+const fortune = ['very bad', 'bad', 'slightly bad', 'fair', 'slightly good', 'good', 'excellent']
 
 function getFortune() {
 
